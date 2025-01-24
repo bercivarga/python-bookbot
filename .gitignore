@@ -10,6 +10,9 @@ __pycache__/
 # Idea
 .idea/
 
+# Local project files
+books/
+
 # Distribution / packaging
 .Python
 build/
